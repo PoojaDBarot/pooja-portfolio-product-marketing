@@ -1,6 +1,6 @@
 # Pooja Barot — Product Marketing Portfolio
 
-Product-marketing version of Pooja Barot's portfolio. Leads with the four two-page case studies (launch, positioning, sales enablement); the general version lives in the `poojadbarot.github.io` repo.
+Product-marketing version of Pooja Barot's portfolio. Leads with the four two-page case studies (launch, positioning, sales enablement); the general version lives in the `pooja-portfolio` repo.
 
 **Live site:** https://poojadbarot.github.io/pooja-portfolio-product-marketing/
 
